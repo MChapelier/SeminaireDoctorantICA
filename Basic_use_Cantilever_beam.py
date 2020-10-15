@@ -42,7 +42,7 @@ plt.ylabel('v(x)')
 
 # list of values for F
 F_list = [2., 100, 5e3, 10743.27] # Python list. Can't be used for calculus, but can be used to store values.
-#or F = np.array([2., 100, 5e3, 10743.27]) which creates a 1D array, that can be used for calculus.
+#or F_list = np.array([2., 100, 5e3, 10743.27]) which creates a 1D array, that can be used for calculus.
 
 ### v calculation and plot
 
